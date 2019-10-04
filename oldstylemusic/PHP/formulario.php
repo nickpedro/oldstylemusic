@@ -11,7 +11,7 @@
 	 
 	//Configurações do email, ajustar conforme necessidade
 	
-	$email_destinatario = "geovanasimaosousa62@gmail.com"; // qualquer email pode receber os dados
+	$email_destinatario = "pedrosalomaoventura1516@gmail.com"; // qualquer email pode receber os dados
 	$email_assunto = "viagem";
 	
 	 
